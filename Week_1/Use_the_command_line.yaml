@@ -11,3 +11,5 @@ checkpoints:
     resource-url: 'https://www.codecademy.com/articles/command-line-commands'
   - task: Have fun with Cows
     resource-url: 'http://www.tecmint.com/20-funny-commands-of-linux-or-linux-is-fun-in-terminal/'
+  - task: Use Bash on Windows (optional)
+    resource-url: 'http://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/'
