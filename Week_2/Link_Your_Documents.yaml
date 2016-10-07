@@ -1,9 +1,11 @@
 curator: Charlotte
 goal: Link your documents
 checkpoints:
-  - task: Use external style sheets
+  - task: Link to the Past
+    resource-url: 'http://arstechnica.com/apple/2012/05/25-years-of-hypercard-the-missing-link-to-the-web'
+  - task: Anchor your Tags
+    resource-url: 'http://learnhtmlwithsong.com/blog/html-anchor-tag/'
+  - task: Use External Style Sheets
     resource-url: 'http://learnhtmlwithsong.com/blog/intro-to-css-link-external-style-sheets/'
-  - task:
-    resource-url: 'https://www.w3.org/TR/html4/present/styles.html'
-  - task: Learn about Script Tags
+  - task: Add Scripts to your Page
     resource-url: 'https://eager.io/blog/everything-I-know-about-the-script-tag/'

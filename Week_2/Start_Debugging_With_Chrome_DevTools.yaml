@@ -1,11 +1,9 @@
 curator: Charlotte
-goal: Start Debugging with Chrome DevTools
+goal: Deconstruct Webpages
 checkpoints:
-  - task: Explore DevTools
-    resource-url: 'http://discover-devtools.codeschool.com/'
-  - task: Install Chrome
-    resource-url: 'https://www.google.com/chrome/browser/desktop/'
-  - task: Access your DevTools
-    resource-url: 'https://developer.chrome.com/devtools'
-  - task: Optional: Get in depth with DevTools
-    resource-url: 'http://blog.teamtreehouse.com/5-great-hidden-features-in-the-chrome-devtools'
+  - task: Change the Script
+    resource-url: 'http://discover-devtools.codeschool.com/chapters/1'
+  - task: Flip the Styles
+    resource-url: 'https://www.youtube.com/watch?v=Z3HGJsNLQ1E'
+  - task: Fake Mobile
+    resource-url: 'https://www.sitepoint.com/use-mobile-emulation-mode-chrome/'
