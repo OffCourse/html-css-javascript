@@ -1,5 +1,5 @@
 curator: Charlotte
-goal: Deconstruct Webpages
+goal: Deconstruct the Internet with Devtools
 checkpoints:
   - task: Change the Script
     resource-url: 'http://discover-devtools.codeschool.com/chapters/1'
