@@ -1,0 +1,17 @@
+curator: Charlotte
+goal: Make your pages mobile friendly
+checkpoints:
+  - task: Design for Different Screen Sizes
+    resource-url: 'https://www.smashingmagazine.com/2011/01/guidelines-for-responsive-web-design/'
+  - task: Don't Start from Scratch
+    resource-url: 'https://www.sitepoint.com/why-i-love-bootstrap-you-should/'
+  - task: Gain Control Over the Grid System
+    resource-url: 'http://getbootstrap.com/css/#grid'
+  - task: Play Around With the Grid System
+    resource-url: 'http://getbootstrap.com/examples/grid/'
+  - task: Create Your First Page with Bootstrap
+    resource-url: 'https://blog.udemy.com/bootstrap-tutorial-a-guide-for-beginners/'
+  # - task: Be Lazy
+  #   resource-url: 'https://responsivedesign.is/resources/videos/laziness-in-the-time-of-responsive-design'
+  - task: Optional: Listen to Real World Responsive Design Stories
+    resource-url: 'http://responsivewebdesign.com/podcast/'

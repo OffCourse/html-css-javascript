@@ -1,0 +1,9 @@
+curator: Charlotte
+goal: Link your documents
+checkpoints:
+  - task: Use external style sheets
+    resource-url: 'http://learnhtmlwithsong.com/blog/intro-to-css-link-external-style-sheets/'
+  - task:
+    resource-url: 'https://www.w3.org/TR/html4/present/styles.html'
+  - task: Learn about Script Tags
+    resource-url: 'https://eager.io/blog/everything-I-know-about-the-script-tag/'

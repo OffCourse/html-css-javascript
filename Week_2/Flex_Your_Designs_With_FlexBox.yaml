@@ -1,0 +1,9 @@
+curator: Charlotte
+goal: Design with efficiency
+checkpoints:
+  - task: Learn about FlexBox
+    resource-url: 'https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes'
+  - task: Get down your FlexBox basics
+    resource-url: 'https://css-tricks.com/snippets/css/a-guide-to-flexbox/'
+  - task: Use a cheat sheet
+    resource-url: 'http://www.sketchingwithcss.com/samplechapter/cheatsheet.html'

@@ -1,0 +1,11 @@
+curator: Charlotte
+goal: Start Debugging with Chrome DevTools
+checkpoints:
+  - task: Explore DevTools
+    resource-url: 'http://discover-devtools.codeschool.com/'
+  - task: Install Chrome
+    resource-url: 'https://www.google.com/chrome/browser/desktop/'
+  - task: Access your DevTools
+    resource-url: 'https://developer.chrome.com/devtools'
+  - task: Optional: Get in depth with DevTools
+    resource-url: 'http://blog.teamtreehouse.com/5-great-hidden-features-in-the-chrome-devtools'

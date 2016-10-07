@@ -1,0 +1,13 @@
+curator: Charlotte
+goal: Style your pages
+checkpoints:
+  - task: Learn CSS speak
+    resource-url: 'http://html.com/css/'
+  - task: Get an overview of CSS
+    resource-url: 'https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_Started'
+  - task: Write your first CSS
+    resource-url: 'https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-css/p/css-basics'
+  - task: Separate Content from Presentation
+    resource-url: 'http://alistapart.com/article/separationdilemma'
+  - task: Stroll Through CSS Garden
+    resource-url: 'http://www.cssgarden.co.uk/'
