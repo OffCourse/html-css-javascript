@@ -1,9 +1,13 @@
 curator: Yeehaa
-goal: Master GitHub
+goal: Show your work on GitHub
 checkpoints:
-  - task: Know the difference between Git and GitHub
-    resource-url: 'https://www.codefellows.org/blog/git-and-github-what-s-the-difference/'
-  - task: Create a GitHub Account
-    resource-url: 'https://github.com/'
-  - task: Push, pull and pull requests
+  - task: Git Hub, or Git Out
+    resource-url: 'https://opensource.com/life/15/2/beginners-guide-github'
+  - task: Create a GitHub profile
+    resource-url: 'https://github.com/join'
+  - task: Go with the Workflow
     resource-url: 'https://guides.github.com/activities/hello-world/'
+  - task: Open Source Everything
+    resource-url: 'http://tom.preston-werner.com/2011/11/22/open-source-everything.html'
+  - task: Grok the System
+    resource-url: 'http://www.nextplatform.com/2015/09/24/inside-the-github-systems-where-open-source-lives/'
