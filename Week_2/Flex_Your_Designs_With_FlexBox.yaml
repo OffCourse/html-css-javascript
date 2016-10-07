@@ -1,9 +1,13 @@
 curator: Charlotte
-goal: Design with efficiency
+goal: Design Flexible Layouts
 checkpoints:
-  - task: Learn about FlexBox
+  - task: Don't do it the old way
+    resource-url: http://www.subcide.com/articles/creating-a-css-layout-from-scratch/
+  - task: Use Flexbox instead
     resource-url: 'https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Using_CSS_flexible_boxes'
-  - task: Get down your FlexBox basics
+  - task: See it in Action
+    resource-url: 'https://egghead.io/lessons/misc-flexbox-fundamentals'
+  - task: Improve your Skills
     resource-url: 'https://css-tricks.com/snippets/css/a-guide-to-flexbox/'
-  - task: Use a cheat sheet
-    resource-url: 'http://www.sketchingwithcss.com/samplechapter/cheatsheet.html'
+  - task: Design a Complex Layout
+    resource-url: 'https://davidwalsh.name/flexbox-layouts'
