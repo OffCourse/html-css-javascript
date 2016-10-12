@@ -1,13 +1,13 @@
 curator: Yeehaa
-goal: Show your work on GitHub
+goal: Show Your Work on GitHub
 checkpoints:
-  - task: Git Hub, or Git Out
+  - task: Git Hub or Git Out
     resource-url: 'https://opensource.com/life/15/2/beginners-guide-github'
-  - task: Create a GitHub profile
+  - task: Create a GitHub Profile
     resource-url: 'https://github.com/join'
   - task: Go with the Workflow
     resource-url: 'https://guides.github.com/activities/hello-world/'
-  - task: Open Source Everything
+  - task: Open Source (Almost) Everything
     resource-url: 'http://tom.preston-werner.com/2011/11/22/open-source-everything.html'
-  - task: Grok the System
+  - task: Grok the System (Optional)
     resource-url: 'http://www.nextplatform.com/2015/09/24/inside-the-github-systems-where-open-source-lives/'

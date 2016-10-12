@@ -1,16 +1,15 @@
 curator: Charlotte
 goal: Style your pages
 checkpoints:
-  - task: Learn CSS speak
+  - task: Learn CSS Speak
     resource-url: 'https://egghead.io/lessons/misc-basic-css-selectors'
-  - task: Write your first CSS
+  - task: Write Your First CSS
     resource-url: 'https://www.khanacademy.org/computing/computer-programming/html-css/intro-to-css/p/css-basics'
+  - task: Put Everything in Boxes
+    resource-url: 'http://learn.shayhowe.com/html-css/opening-the-box-model/'
   - task: Separate Content from Presentation
     resource-url: 'https://www.sitepoint.com/web-foundations/css/'
-  - task: Put everything in Boxes
-    resource-url: 'http://learn.shayhowe.com/html-css/opening-the-box-model/'
   - task: Be Amazed
     resource-url: 'http://codepen.io/jaysalvat/pen/HaqBf'
-  - task: Get an overview of CSS
+  - task: Get an Overview of CSS
     resource-url: 'http://makeawebsitehub.com/css3-mega-cheat-sheet/'
-

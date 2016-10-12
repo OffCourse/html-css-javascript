@@ -1,0 +1,11 @@
+curator: Charlotte
+goal: Use an Interactive PlayGround
+checkpoints:
+  - task: Play Around in CodePen
+    resource-url: 'https://css-tricks.com/video-screencasts/112-using-codepen/'
+  - task: Chill the Lion
+    resource-url: 'https://codepen.io/Yakudoo/pen/YXxmYR'
+  - task: Hover the Neon Sign
+    resource-url: 'http://codepen.io/FelixRilling/pen/qzfoc'
+  - task: X-Ray Me
+    resource-url: 'http://codepen.io/sol0mka/pen/kzyjJ'
