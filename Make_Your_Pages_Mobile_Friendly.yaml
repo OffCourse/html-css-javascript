@@ -13,5 +13,5 @@ checkpoints:
     resource-url: 'https://blog.udemy.com/bootstrap-tutorial-a-guide-for-beginners/'
   # - task: Be Lazy
   #   resource-url: 'https://responsivedesign.is/resources/videos/laziness-in-the-time-of-responsive-design'
-  - task: Optional: Listen to Real World Responsive Design Stories
+  - task: "Optional: Listen to Real World Responsive Design Stories"
     resource-url: 'http://responsivewebdesign.com/podcast/'
