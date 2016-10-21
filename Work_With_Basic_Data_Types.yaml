@@ -9,5 +9,5 @@ checkpoints:
     resource-url: 'http://computationaltales.blogspot.be/2011/08/fun-with-boolean-statements.html'
   - task: Tell Eliza
     resource: 'http://www.masswerk.at/'
-  - task: 'Let's Party?'
+  - task: "Let's Party?"
     resource-url: 'https://jenniferdewalt.com/party_time.html'
