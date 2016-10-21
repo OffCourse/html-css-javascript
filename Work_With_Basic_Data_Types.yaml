@@ -1,0 +1,13 @@
+curator: Charlotte
+goal: Work with Basic Data Types
+checkpoints:
+  - task: Learn about Basic Values
+    resource-url: 'http://eloquentjavascript.net/01_values.html'
+  - task: Manipulate Values in the Console
+    resource-url: 'http://javascript-roadtrip.codeschool.com/levels/1/challenges/1'
+  - task: Code a Fairy Tale
+    resource-url: 'http://computationaltales.blogspot.be/2011/08/fun-with-boolean-statements.html'
+  - task: Tell Eliza
+    resource: 'http://www.masswerk.at/'
+  - task: Lets Party
+    resource-url: 'https://jenniferdewalt.com/party_time.html'
