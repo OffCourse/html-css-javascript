@@ -1,0 +1,9 @@
+curator: Charlotte
+goal: Work with the Browser Console
+checkpoints:
+  - task: Find the Console
+    resource-url: 'https://www.youtube.com/watch?v=SZi4lefCUpY'
+  - task: Try out Some JavaScript in the Console
+    resource-url: 'http://discover-devtools.codeschool.com/chapters/3/challenges/1?locale=en'
+  - task: Master the Console
+    resource-url: 'http://blog.teamtreehouse.com/mastering-developer-tools-console'

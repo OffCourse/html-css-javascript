@@ -1,0 +1,13 @@
+curator: Charlotte
+goal: Write in Markdown
+checkpoints:
+  - task: Love Simplicity
+    resource-url: 'https://zapier.com/blog/beginner-ultimate-guide-markdown/'
+  - task: Format Text with Just Your Keyboard
+    resource-url: 'http://daringfireball.net/projects/markdown/syntax'
+  - task: Write Some Markdown Yourself
+    resource-url: 'http://dillinger.io/'
+  - task: Do More with Markdown
+    resource-url: 'http://lifehacker.com/5943320/what-is-markdown-and-why-is-it-better-for-my-to-do-lists-and-notes'
+  - task: Choose Your Own Markdown Editor
+    resource-url: 'http://mashable.com/2013/06/24/markdown-tools/'

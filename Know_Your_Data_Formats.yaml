@@ -1,0 +1,11 @@
+curator: Charlotte
+goal: Know Your Data Formats
+checkpoints:
+  - task: Encode and Decode
+    resource-url: 'http://searchnetworking.techtarget.com/definition/encoding-and-decoding'
+  - task: Learn an Early Encoding Tecnique 
+    resource-url: 'https://www.youtube.com/watch?v=xsDk5_bktFo'
+  - task: Encode Text in Binary Notation
+    resource-url: 'https://www.youtube.com/watch?v=UPlR4eMMCmI'
+  - task: Pick or Classify Your Format
+    resource-url: 'https://www.nayuki.io/page/what-are-binary-and-text-files'
