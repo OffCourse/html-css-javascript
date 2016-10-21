@@ -8,6 +8,6 @@ checkpoints:
   - task: Write Some Markdown Yourself
     resource-url: 'http://dillinger.io/'
   - task: Do More with Markdown
-    resource-url: 'http://lifehacker.com/5943320/what-is-markdown-and-why-is-it-better-for-my-to-do-lists-and-notes'
+    resource-url: 'http://lifehacker.com/5943320/'
   - task: Choose Your Own Markdown Editor
     resource-url: 'http://mashable.com/2013/06/24/markdown-tools/'
