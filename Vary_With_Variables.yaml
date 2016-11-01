@@ -4,8 +4,8 @@ checkpoints:
   - task: Store Data in Variables
     resource-url: 'https://code.tutsplus.com/tutorials/introduction-to-javascript-variables--cms-24563'
   - task: Work with Variables
-    resource-url: 'https://code.tutsplus.com/tutorials/introduction-to-javascript-variables--cms-24563
-  - task: Distinguish between Global and Local Variables'
+    resource-url: 'https://code.tutsplus.com/tutorials/introduction-to-javascript-variables--cms-24563'
+  - task: Distinguish between Global and Local Variables
     resource-url: 'http://funprogramming.org/50-What-are-global-and-local-variables.html'
   - task: Declare Variables
     resource-url: 'https://www.freecodecamp.com/challenges/declare-javascript-variables'
