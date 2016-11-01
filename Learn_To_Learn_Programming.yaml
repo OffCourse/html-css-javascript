@@ -1,0 +1,11 @@
+curator: Charlotte
+goal: Learn to Learn Programming
+checkpoints:
+  - task: Take Eric Elliot's Advice
+    resource-url: 'https://medium.com/javascript-scene/learn-to-code-13-tips-that-could-save-you-years-of-effort-92ce799a3e1f#.nfjagisbc'
+  - task: Nail the Basic Programming Concepts
+    resource-url: 'https://github.com/getify/You-Dont-Know-JS/blob/master/up%20%26%20going/ch1.md'
+  - task: Learn Any Programming Language
+    resource-url: 'https://www.youtube.com/watch?v=UFS7gi6LXhw'
+  - task: Listen and Learn from JavaScript Jabber
+    resource-url: 'https://devchat.tv/js-jabber/219-jsj-learning-javascript-in-2016'

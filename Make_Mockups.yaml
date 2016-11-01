@@ -1,0 +1,9 @@
+curator: Charlotte
+goal: Make_Mockups
+checkpoints:
+  - task: Define What You're Making 
+    resource-url: 'http://alistapart.com/article/ooux-a-foundation-for-interaction-design'
+  - task: Create a Prototype
+    resource-url: 'https://www.smashingmagazine.com/2016/06/picking-the-best-prototyping-software-for-your-project/'
+  - task: Evaluate (Ask the Right Questions)
+    resource-url: 'https://signalvnoise.com/posts/3024-questions-i-ask-when-reviewing-a-design'

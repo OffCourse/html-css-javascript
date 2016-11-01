@@ -1,0 +1,15 @@
+curator: Charlotte
+goal: Store Data in Arrays
+checkpoints:
+  - task: Understand Arrays
+    resource-url: 'http://www.w3schools.com/js/js_arrays.asp'
+  - task: Store Multiple Values into One Variable
+    resource-url: 'https://www.freecodecamp.com/challenges/store-multiple-values-in-one-variable-using-javascript-arrays'
+  - task: Modify Array Data with Indexes
+    resource-url: 'https://www.freecodecamp.com/challenges/modify-array-data-with-indexes'
+  - task: Manipulate Arrays with Push
+    resource-url: 'https://www.freecodecamp.com/challenges/manipulate-arrays-with-push'
+  - task: Manipulate Arrays with Pop
+    resource-url: 'https://www.freecodecamp.com/challenges/manipulate-arrays-with-pop'
+  - task: Repeat!
+    resource-url: 'https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array'

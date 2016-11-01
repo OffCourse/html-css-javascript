@@ -1,0 +1,13 @@
+curator: Charlotte
+goal: Be Dynamic with Templates
+checkpoints:
+  - task: Travel to the Earliest Templates
+    resource-url: 'http://www.lostateminor.com/2014/07/03/fijians-create-amazing-traditional-masi-art/'
+  - task: Ride with Handlebars
+    resource-url: 'https://www.sitepoint.com/a-beginners-guide-to-handlebars/'
+  - task: Play with Handlebars
+    resource-url: 'http://tryhandlebarsjs.com/'
+  - task: Practice your Templating Skills
+    resource-url: 'codepen'
+  - task: Expand Your Concept of Templates
+    resource-url: 'https://www.dnalc.org/resources/3d/04-mechanism-of-replication-advanced.html'

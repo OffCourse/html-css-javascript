@@ -1,0 +1,15 @@
+curator: Charlotte
+goal: Structure Programs with Functions
+checkpoints:
+  - task: Learn to Function
+    resource-url: 'https://www.youtube.com/watch?v=j-idGfFDsAU'
+  - task: Make Things Work
+    resource-url: 'http://markdaggett.com/blog/2013/02/15/functions-explained/'
+  - task: Do Not Repeat Yourself
+    resource-url: 'https://www.freecodecamp.com/challenges/write-reusable-javascript-with-functions'
+  - task: Pass Values to Functions
+    resource-url: 'https://www.freecodecamp.com/challenges/passing-values-to-functions-with-arguments'
+  - task: Return Values
+    resource-url: 'https://www.freecodecamp.com/challenges/return-a-value-from-a-function-with-return'
+  - task: Go Deeper
+    resource-url: 'http://eloquentjavascript.net/03_functions.html'
