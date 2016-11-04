@@ -8,6 +8,6 @@ checkpoints:
   - task: Play with Handlebars
     resource-url: 'http://tryhandlebarsjs.com/'
   - task: Practice your Templating Skills
-    resource-url: 'codepen'
+    resource-url: 'http://codepen.io/cevoostrum/pen/vyYpxJ'
   - task: Expand Your Concept of Templates
     resource-url: 'https://www.dnalc.org/resources/3d/04-mechanism-of-replication-advanced.html'
