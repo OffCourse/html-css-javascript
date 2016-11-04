@@ -1,5 +1,5 @@
 curator: Charlotte
-goal: Make_Mockups
+goal: Make Mockups
 checkpoints:
   - task: Define What You're Making 
     resource-url: 'http://alistapart.com/article/ooux-a-foundation-for-interaction-design'
