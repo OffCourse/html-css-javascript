@@ -2,7 +2,7 @@ curator: charlotte
 goal: To Run or Not to Run with Conditionals
 checkpoinst:
   - task: Understand Conditional Logic 
-    resourcde-url: 'https://www.youtube.com/watch?v=4Zxp2-_pLCE' or 'https://www.youtube.com/watch?v=im4WPHfeXA0'
+    resource-url: 'https://www.youtube.com/watch?v=4Zxp2-_pLCE'
   - task: Control Behavior with If, Else and Else If
     resource-url: 'https://www.javascript.com/learn/javascript/conditionals'
   - task: Practice If Else Statements
@@ -12,4 +12,4 @@ checkpoinst:
   - task: Practice Switching
     resource-url: 'https://www.freecodecamp.com/challenges/selecting-from-many-options-with-switch-statements'
   - task: 'Don't Use Conditionals Too Often'
-    resource-url: ??
+    resource-url: todo
