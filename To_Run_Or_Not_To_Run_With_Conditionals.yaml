@@ -13,5 +13,5 @@ checkpoint:
     resource-url: 'https://www.freecodecamp.com/challenges/selecting-from-many-options-with-switch-statements'
   - task: "Don't Use Conditionals Too Often"
     resource-url: 'https://blog.codinghorror.com/flattening-arrow-code/'
-  - task: "Don't be a Red Neck"
+  - task: "Don't be a Redneck"
     resource-url: 'https://dzone.com/articles/redneck-conditional-anti'
