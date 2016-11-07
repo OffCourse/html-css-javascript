@@ -1,6 +1,6 @@
 curator: Charlotte
 goal: To Run or Not to Run with Conditionals
-checkpoint:
+checkpoints:
   - task: Understand Conditional Logic
     resource-url: 'https://www.youtube.com/watch?v=4Zxp2-_pLCE'
   - task: 'Control Behavior with If, Else and Else If'
