@@ -1,0 +1,15 @@
+curator: Charlotte
+goal: Wrap Your Values in Objects
+checkpoints:
+  - task: Understand Objects in General
+    resource-url: 'http://www.lostateminor.com/2014/07/03/fijians-create-amazing-traditional-masi-art/'
+  - task: Understand Objects in Programming
+    resource-url: 'https://www.javascript.com/learn/javascript/objects'
+  - task: Create an Object
+    resource-url: 'https://www.freecodecamp.com/challenges/build-javascript-objects'
+  - task: Work with Objects
+    resource-url: 'http://eloquentjavascript.net/06_object.html'
+  - task: Relate JavaScript Objects to JSON
+    resource-url: 'http://developers.squarespace.com/what-is-json/'
+  - task: Review Objects
+    resource-url: 'https://developer.mozilla.org/en-US/docs/Glossary/object'

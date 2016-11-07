@@ -1,11 +1,13 @@
 curator: Charlotte
 goal: Link Your Documents
 checkpoints:
-  - task: Link to the Past
-    resource-url: 'http://arstechnica.com/apple/2012/05/25-years-of-hypercard-the-missing-link-to-the-web'
-  - task: Anchor Your Tags
-    resource-url: 'http://learnhtmlwithsong.com/blog/html-anchor-tag/'
-  - task: Use External Style Sheets
-    resource-url: 'http://learnhtmlwithsong.com/blog/intro-to-css-link-external-style-sheets/'
-  - task: Add Scripts to Your Page
-    resource-url: 'https://eager.io/blog/everything-I-know-about-the-script-tag/'
+  - task: Start at the Beginning of the Web
+    resource-url: 'http://www.ted.com/talks/ian_ritchie_the_day_i_turned_down_tim_berners_lee'
+  - task: Define Hypertext
+    resource-url: 'http://www.iicm.edu:8000/0x811bc82b_0x0005f59f'
+  - task: Link to External CSS
+    resource-url: 'https://www.youtube.com/watch?v=y4gWr2fya0I'
+  - task: Link to External JavaScript
+    resource-url: 'https://www.youtube.com/watch?v=06oqCcAnyjc'
+  - task: Watch Halt and Catch Fire (Optional)
+    resource-url: 'http://www.vulture.com/2016/10/halt-and-catch-fire-recap-season-3-episode-10.html'
